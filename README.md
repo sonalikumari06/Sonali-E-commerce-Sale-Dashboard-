@@ -18,7 +18,7 @@ It analyzes sales, profit, and quantity data to identify trends and generate mea
 - Bar, Line, and Donut Charts  
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Sonali-E-commerce-Sale-Dashboard.png)
+![Dashboard Preview](SONALI ECOMMERCE SALES DASHBOARD.png)
 
 ## 📚 What I Learned
 - Creating relationships between multiple tables  
